@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dhwani 👋
 
-<!--
-**dhwani-prajapati14/dhwani-prajapati14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Designer | AI/ML-Powered Experiences** 
 
-Here are some ideas to get you started:
+I design human-centered experiences for AI products, focusing on trust, transparency, and how people work with intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm exploring
+- Trust and transparency in AI interfaces
+- Prompt design and agentic UX
+
+## Find me online
+- [LinkedIn](https://www.linkedin.com/in/dhwani-prajapati14/)
+
+## Get in touch
+📧 [dhwani.prajapati14@gmail.com](mailto:dhwani.prajapati14@gmail.com)
